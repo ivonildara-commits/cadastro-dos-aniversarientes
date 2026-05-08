@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Aniversários",
+  "description": "Sistema de cadastro de aniversariantes com integração Supabase e controle de status (não iniciado, em andamento, concluído).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
